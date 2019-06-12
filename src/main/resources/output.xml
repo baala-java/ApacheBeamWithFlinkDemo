@@ -1,0 +1,18 @@
+<car>
+    <brand>Toyota</brand>
+    <id>1</id>
+    <model>Prius</model>
+    <total>3</total>
+</car>
+<car>
+    <brand>Nissan</brand>
+    <id>2</id>
+    <model>Sentra</model>
+    <total>2</total>
+</car>
+<car>
+    <brand>Ford</brand>
+    <id>3</id>
+    <model>Fusion</model>
+    <total>4</total>
+</car>
